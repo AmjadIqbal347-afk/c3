@@ -3,3 +3,4 @@ add reset password functionality
 password functionality fixed
 logging
 change
+setting up parser
